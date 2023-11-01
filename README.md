@@ -19,6 +19,15 @@
 }
 ```
 
+# addgroup
+
+```javascript
+ {
+    "username":"ecordero",
+    "groupname": "admin"
+}
+```
+
 # sign-in
 
 ```javascript
