@@ -32,7 +32,8 @@ export const handler = async (
       }
     })
   );
-
+  console.log(result);
+  const session = 
   const idtoken = result.AuthenticationResult?.IdToken
 
   if(idtoken === undefined) {

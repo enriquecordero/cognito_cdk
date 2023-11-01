@@ -28,7 +28,8 @@ await client.send(new SignUpCommand({
       Name: 'email',
       Value: email
     }
-  ]
+  ],
+  
 })
 );
 
